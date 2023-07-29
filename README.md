@@ -1,1 +1,2 @@
-The main goal of this branch is to add Leia (Kodi 18) support to this very fine skin made by JezzX.
+## pm3-hd skin for kodi 20 (nexus)
+the goal of this fork is to add support for this skin to kodi 20
